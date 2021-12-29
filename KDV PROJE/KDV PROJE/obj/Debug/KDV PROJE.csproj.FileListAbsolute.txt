@@ -1,0 +1,9 @@
+C:\Users\Mert\Desktop\UDEMY PROJELER\KDV PROJE\KDV PROJE\bin\Debug\KDV PROJE.exe.config
+C:\Users\Mert\Desktop\UDEMY PROJELER\KDV PROJE\KDV PROJE\bin\Debug\KDV PROJE.exe
+C:\Users\Mert\Desktop\UDEMY PROJELER\KDV PROJE\KDV PROJE\bin\Debug\KDV PROJE.pdb
+C:\Users\Mert\Desktop\UDEMY PROJELER\KDV PROJE\KDV PROJE\obj\Debug\KDV_PROJE.Form1.resources
+C:\Users\Mert\Desktop\UDEMY PROJELER\KDV PROJE\KDV PROJE\obj\Debug\KDV_PROJE.Properties.Resources.resources
+C:\Users\Mert\Desktop\UDEMY PROJELER\KDV PROJE\KDV PROJE\obj\Debug\KDV PROJE.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\UDEMY PROJELER\KDV PROJE\KDV PROJE\obj\Debug\KDV PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\UDEMY PROJELER\KDV PROJE\KDV PROJE\obj\Debug\KDV PROJE.exe
+C:\Users\Mert\Desktop\UDEMY PROJELER\KDV PROJE\KDV PROJE\obj\Debug\KDV PROJE.pdb
