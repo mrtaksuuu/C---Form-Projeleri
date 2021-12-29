@@ -1,0 +1,10 @@
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\bin\Debug\Sinem_Büfe_Satış.exe.config
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\bin\Debug\Sinem_Büfe_Satış.exe
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\bin\Debug\Sinem_Büfe_Satış.pdb
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\obj\Debug\Sinem_Büfe_Satış.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\obj\Debug\Sinem_Büfe_Satış.Form1.resources
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\obj\Debug\Sinem_Büfe_Satış.Properties.Resources.resources
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\obj\Debug\Sinem_Büfe_Satış.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\obj\Debug\Sinem_Büfe_Satış.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\obj\Debug\Sinem_Büfe_Satış.exe
+C:\Users\Mert\Desktop\UDEMY PROJELER\Sinem_Büfe_Satış\Sinem_Büfe_Satış\obj\Debug\Sinem_Büfe_Satış.pdb
